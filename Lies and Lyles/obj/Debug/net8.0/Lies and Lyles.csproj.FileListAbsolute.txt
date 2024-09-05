@@ -1,0 +1,14 @@
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.exe
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.deps.json
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.runtimeconfig.json
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.dll
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.pdb
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.AssemblyInfo.cs
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.dll
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\refint\Lies and Lyles.dll
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.pdb
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.genruntimeconfig.cache
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\ref\Lies and Lyles.dll

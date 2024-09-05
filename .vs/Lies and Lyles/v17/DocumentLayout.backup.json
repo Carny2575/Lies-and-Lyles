@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\roomtwosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\roomtwosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\dungeondoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\dungeondoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\liar 1-5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\liar 1-5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\roomonesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\roomonesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\liar 2-6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\liar 2-6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\liar 2-5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\liar 2-5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\liar 2-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\liar 2-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\liar 1-6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\liar 1-6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 2-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 2-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 2-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 2-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 1-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 1-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 1-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 1-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|c:\\users\\miles\\source\\repos\\lies and lyles\\lies and lyles\\truth teller 1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C060B-252B-4D42-98FB-28B730906AAF}|Lies and Lyles\\Lies and Lyles.csproj|solutionrelative:lies and lyles\\truth teller 1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Liar 2-6.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 2-6.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Liar 2-6.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 2-6.cs",
+              "RelativeToolTip": "Lies and Lyles\\Liar 2-6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:34:36.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Liar 2-5.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 2-5.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Liar 2-5.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 2-5.cs",
+              "RelativeToolTip": "Lies and Lyles\\Liar 2-5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:34:29.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Liar 2-4.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 2-4.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Liar 2-4.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 2-4.cs",
+              "RelativeToolTip": "Lies and Lyles\\Liar 2-4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:34:21.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Truth Teller 2-3.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 2-3.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 2-3.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 2-3.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 2-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:34:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Truth Teller 2-2.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 2-2.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 2-2.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 2-2.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 2-2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:33:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Setup.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Setup.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Setup.cs",
+              "RelativeToolTip": "Lies and Lyles\\Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:27:45.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Truth Teller 2-1.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 2-1.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 2-1.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 2-1.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 2-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:33:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Validation.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Validation.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Validation.cs",
+              "RelativeToolTip": "Lies and Lyles\\Validation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:29:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Liar 1-6.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 1-6.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Liar 1-6.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 1-6.cs",
+              "RelativeToolTip": "Lies and Lyles\\Liar 1-6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Liar 1-5.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 1-5.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Liar 1-5.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Liar 1-5.cs",
+              "RelativeToolTip": "Lies and Lyles\\Liar 1-5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:38.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Truth Teller 1-4.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-4.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 1-4.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-4.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 1-4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Truth Teller 1-3.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-3.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 1-3.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-3.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 1-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:09.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Truth Teller 1-2.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-2.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 1-2.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-2.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 1-2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomOneSetup.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\RoomOneSetup.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\RoomOneSetup.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\RoomOneSetup.cs",
+              "RelativeToolTip": "Lies and Lyles\\RoomOneSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:17:30.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DungeonDoor.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\DungeonDoor.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\DungeonDoor.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\DungeonDoor.cs",
+              "RelativeToolTip": "Lies and Lyles\\DungeonDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:11:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Program.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Program.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Program.cs",
+              "RelativeToolTip": "Lies and Lyles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:26:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomTwoSetup.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\RoomTwoSetup.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\RoomTwoSetup.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\RoomTwoSetup.cs",
+              "RelativeToolTip": "Lies and Lyles\\RoomTwoSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:17:43.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Truth Teller 1-1.cs",
+              "DocumentMoniker": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-1.cs",
+              "RelativeDocumentMoniker": "Lies and Lyles\\Truth Teller 1-1.cs",
+              "ToolTip": "C:\\Users\\miles\\source\\repos\\Lies and Lyles\\Lies and Lyles\\Truth Teller 1-1.cs",
+              "RelativeToolTip": "Lies and Lyles\\Truth Teller 1-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:24:40.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
