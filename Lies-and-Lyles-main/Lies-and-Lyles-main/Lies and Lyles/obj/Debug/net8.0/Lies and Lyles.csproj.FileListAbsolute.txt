@@ -1,0 +1,28 @@
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.exe
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.deps.json
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.runtimeconfig.json
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.dll
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.pdb
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.AssemblyInfo.cs
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.dll
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\refint\Lies and Lyles.dll
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.pdb
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.genruntimeconfig.cache
+C:\Users\miles\source\repos\Lies and Lyles\Lies and Lyles\obj\Debug\net8.0\ref\Lies and Lyles.dll
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.exe
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.deps.json
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.runtimeconfig.json
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.dll
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\bin\Debug\net8.0\Lies and Lyles.pdb
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.AssemblyInfoInputs.cache
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.AssemblyInfo.cs
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.csproj.CoreCompileInputs.cache
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.dll
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\refint\Lies and Lyles.dll
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.pdb
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\Lies and Lyles.genruntimeconfig.cache
+D:\Profiles\mrp5303\Downloads\Lies-and-Lyles-main\Lies-and-Lyles-main\Lies and Lyles\obj\Debug\net8.0\ref\Lies and Lyles.dll
